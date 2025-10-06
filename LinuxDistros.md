@@ -1,5 +1,7 @@
-# Top 20 Linux distros
+# Most important Linux distros
 ### Compiled by csurgay@gmail.com 2025
+
+Distros in this compilation have the highest impact on the widespread acceptance of OpenSource in operating systems. 
 
 | Name | Name origin (short)  | Based on | Purpose / main goal | Creator / origin | Target domains | Key technical notes |
 |-----|-----------------------|----------|---------------------|------------------|----------------|---------------------|
